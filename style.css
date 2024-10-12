@@ -194,11 +194,10 @@ header {
   justify-content: center;
   align-items: center;
   grid-gap: 20px;
-  .hero-desc {
-    margin: 0;
-  }
 }
-
+.hero-rate .hero-desc {
+  margin: 0;
+}
 .feature-section {
   width: 100%;
   padding: 55px 0;
